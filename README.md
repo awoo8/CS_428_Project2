@@ -10,7 +10,10 @@ The project revolves around the idea of having users cope with their fears and h
 
 ## How to Use
 #### Controls for Oculus Quest headset  
-* Idk them
+* Right trigger - used to pick up and interact with grabable objects
+* Right stick - used to position the destination of the desired location. 
+* Right stick click - used to teleport.
+
 
 #### Controls using keyboard and mouse
 * 1 - transition from repositioning to controlling person.
